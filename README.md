@@ -1,2 +1,2 @@
 # RockPaperScissors
-This is simple console game.
+This is the classical game Rock-Paper-Scissors with final score against the computer :)
